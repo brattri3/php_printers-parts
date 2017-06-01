@@ -1,1 +1,2 @@
-# php_printers-parts
+## php_printers-parts учебный проект.
+Тот же проект только написанный на php.
